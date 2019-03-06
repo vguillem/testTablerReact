@@ -1,0 +1,10 @@
+.text {
+  font-size: large;
+  font-weight: bold;
+}
+
+.value {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #ff0099;
+}
